@@ -1,4 +1,4 @@
-import { useState } from 'react';
+
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Home from './pages/Home';
 import Products from './pages/Products';
@@ -11,7 +11,7 @@ function App() {
     <Router>
       <div className="app">
         <header>
-          <h1>Pokemon-themed website</h1>
+          <h1>Pokemon-Themed Website</h1>
           <nav>
             <Link to="/">Home</Link> <br />
             <Link to="/products">Products</Link> <br />
