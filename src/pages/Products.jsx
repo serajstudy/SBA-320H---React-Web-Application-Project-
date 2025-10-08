@@ -4,7 +4,7 @@ function Products(){
 
 
     return ( 
-        <h1></h1>
+        <h1>ok </h1>
     )
 
 
@@ -12,4 +12,4 @@ function Products(){
 }
 
 
-export default About
+export default Products;
