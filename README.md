@@ -5,6 +5,8 @@ This is a simple React web application for a Pokemon-themed
 # components
     ItemCard.jsx
     Header.jsx
+    ItemList.jsx
+
 
 # pages
     Home.jsx
